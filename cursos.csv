@@ -1,0 +1,9 @@
+id_curso , id_sede , nombre_curso       , horario , duracion , dias            , cantidad_estudiantes
+17700,2, Matemáticas Básicas ,9,2, miércoles  ,40
+12300,4, Historia del Arte   ,7,3, martes    ,30
+19300,1, Programación Java   ,9,2, lunes  ,50
+13450,3, Inglés Avanzado     ,11,1, martes           ,20
+15750,5,Programación orientada a objetos,8,2,viernes,37
+17700,2, Matemáticas Básicas ,9,2, lunes,40
+19300,1, Programación Java   ,9,2,miércoles  ,50
+12300,4, Historia del Arte   ,7,3,jueves    ,30
